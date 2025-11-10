@@ -47,7 +47,7 @@ repositories {
 
 dependencies {
     implementation("org.jfree:jfreechart:1.5.6")
-    implementation("com.formdev:flatlaf:3.2.5")
+    implementation("com.formdev:flatlaf:3.6.2")
     implementation("com.google.code.gson:gson:2.10.1")
 }
 
