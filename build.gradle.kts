@@ -53,8 +53,8 @@ dependencies {
     implementation("org.jfree:jfreechart:1.5.6")
     implementation("com.formdev:flatlaf:3.7.1")
     implementation("com.google.code.gson:gson:2.13.2")
-    implementation("org.apache.poi:poi:5.5.1")
-    implementation("org.apache.poi:poi-ooxml:5.5.1")
+    implementation("org.apache.poi:poi:6.0.0")
+    implementation("org.apache.poi:poi-ooxml:6.0.0")
 }
 
 tasks.build {
